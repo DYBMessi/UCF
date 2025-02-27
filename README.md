@@ -43,12 +43,3 @@ Overall, this code provides a more efficient solution for infrared weak target s
 - After training is completed, the terminal will output the F1 score and IoU of the best model, and the performance chart (loss, F1 score, IoU) will be saved in the export_images/folder.
   ```bash
     python main.py
-
-
-
-
-
-
-
-
-  
