@@ -33,7 +33,7 @@ Overall, this code provides a more efficient solution for infrared weak target s
 - eval.py： Evaluation and drawing functions.
 - test.py： Test the best model.
 - main.py： Integrate the main script of all modules.
-## Run project
+## Run the project
 - Ensure that the 'data' folder contains training and testing data (images and masks).
 - Run the following command on the terminal to start training and testing:
 - Train the model for 100 epochs.
