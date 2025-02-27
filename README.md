@@ -34,8 +34,8 @@ Overall, this code provides a more efficient solution for infrared weak target s
 - test.py： Test the best model.
 - main.py： Integrate the main script of all modules.
 ## Run project
--Ensure that the 'data' folder contains training and testing data (images and masks).
--Run the following command on the terminal to start training and testing:
+- Ensure that the 'data' folder contains training and testing data (images and masks).
+- Run the following command on the terminal to start training and testing:
 - Train the model for 100 epochs.
 - Save the best model to export_images/best_madel.pth.
 - Generate charts of loss, F1 score, and IoU in output images/.
@@ -43,3 +43,11 @@ Overall, this code provides a more efficient solution for infrared weak target s
 - After training is completed, the terminal will output the F1 score and IoU of the best model, and the performance chart (loss, F1 score, IoU) will be saved in the export_images/folder.
   ```bash
     python main.py
+## Final result
+- The loss function graph obtained from training
+![loss_image]()
+- F1score function graph obtained during the training process
+![loss_image]()
+- IOU function graph obtained during the training process
+![loss_image]()
+- Best F1 Score: 0.6734, Corresponding IoU: 0.5316
