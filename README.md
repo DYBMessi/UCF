@@ -45,9 +45,9 @@ Overall, this code provides a more efficient solution for infrared weak target s
     python main.py
 ## Final result
 - The loss function graph obtained from training
-![loss_image]()
+![loss_image](loss.png)
 - F1score function graph obtained during the training process
-![loss_image]()
+![loss_image](f1_score.png)
 - IOU function graph obtained during the training process
-![loss_image]()
+![loss_image](iou.png)
 - Best F1 Score: 0.6734, Corresponding IoU: 0.5316
