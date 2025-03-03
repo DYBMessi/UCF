@@ -50,4 +50,5 @@ Overall, this code provides a more efficient solution for infrared weak target s
 - ![loss_image](f1_score.png)
 - IOU function graph obtained during the training process
 - ![loss_image](iou.png)
-- Best F1 Score: 0.6734, Corresponding IoU: 0.5316
+- Best F1 Score: 0.6794, Corresponding IoU: 0.5414
+- ![sinal_test](final_test.png)
